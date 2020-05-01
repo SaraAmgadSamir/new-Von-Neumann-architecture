@@ -1,0 +1,13 @@
+/ALU.class
+/ControlUnit.class
+/DataMemory.class
+/Datapath.class
+/Execute.class
+/InstructionDecode.class
+/InstructionFetch.class
+/MemoryAccess.class
+/PC.class
+/WriteBack.class
+/block.class
+/memory.class
+/registerFile.class
